@@ -1,0 +1,30 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d6e0e4
+}
+
+.card {
+    margin: 140px 24px;
+    width: 18rem
+}
+
+.team {
+    text-align: center;
+    width: 100%;
+    padding: 0px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: red;
+    text-shadow: 2px 2px yellow;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-shadow: 2px 2px yellow;
+}

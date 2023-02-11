@@ -1,0 +1,99 @@
+.menu {
+    display: flex;
+    height: 500px;
+    width: 100%;
+}
+
+.food {
+    width: 55%;
+    margin-left: 2rem;
+    margin-top: 32px;
+}
+
+.nutr {
+    width: 35%;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.size {
+    margin: 4px -5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.cor {
+    width: 60%;
+    margin: auto;
+}
+
+.food h2 {
+    margin: 45px 73px 14px 322px;
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-shadow: 2px 2px yellow;
+}
+
+.nutr h2 {
+    margin: 45px 73px 14px 200px;
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-shadow: 2px 2px yellow;
+}
+
+.sizef {
+    margin: 1px -9px 1px -8px;
+    padding: 5px;
+    text-align: center;
+}
+
+.food h2 {
+    margin-top: 25px;
+    margin-bottom: 0px;
+    justify-content: center;
+    display: flex;
+}
+
+.attend {
+    text-align: center;
+}
+
+.im_size {
+    margin: 0px 100px 0px 483px;
+    background-color: #d6e0e4;
+}
+
+.i_size {
+    width: 38%;
+}
+
+img {
+    height: 360px;
+}
+
+.im_color {
+    background-color: #d6e0e4;
+}
+
+.one th,
+td {
+    padding: 16px 95px;
+}
+
+.two {
+    font-size: 21px;
+}
+
+.jay {
+    margin-bottom: 2rem;
+}
+
+.jay2 {
+    margin-left: 1rem;
+}

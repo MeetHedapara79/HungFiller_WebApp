@@ -1,0 +1,47 @@
+.manage {
+    display: flex;
+    min-height: 60vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+
+.total-users {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin-top: 80px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
+
+.search {
+    display: flex;
+    margin-right: 100px;
+}
+
+.search-in {
+    margin-right: 20px;
+}
+
+.admin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    font-size: 40px;
+}
+
+.ngoLink {
+    text-decoration: none;
+    color: azure;
+}
+
+.ngoLink:hover {
+    color: aliceblue;
+}
